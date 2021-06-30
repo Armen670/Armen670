@@ -7,7 +7,7 @@
 <p align='center'>
    📫 Почта : <a href='armen.baburian@yandex.ru'>armen.baburian@yandex.ru</a>
 </p>
-#####СОС
+###СОС
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
