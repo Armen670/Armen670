@@ -12,7 +12,8 @@
 * KMP алгоритм : https://github.com/Armen670/ALL/releases/tag/Algorithm
 * Решето эратосфена : https://github.com/Armen670/ALL/tree/master/SieveErat
 * Задания и книги Лафоре об ООП:https://github.com/Armen670/ALL/tree/master/Lafore
-* Реализация циклического двусвзязного списка (тема курсовой нписанной на первом курсе) : https://github.com/Armen670/ALL/blob/master/main.cpp
+* Реализация циклического двусвзязного списка (тема курсовой написанной на первом курсе) : https://github.com/Armen670/ALL/blob/master/main.cpp
   Текст курсовой лежит в резюме отправленное мной , в разделе "Портфолио".
 * Реализация и сравнение эффективности большинства алгоритмов на графах, используя три структуры данных имитирующих графы : 
   матрица инцендентности , матрица смежности , список смежности (В процессе) : https://github.com/Armen670/ALL/tree/master/Test 
+*Сравнение разлмчных способов генерации псевдо-случайных чисел , и способов сортировки(В будущем) :https://github.com/Armen670/ALL/tree/master/QuickSort
